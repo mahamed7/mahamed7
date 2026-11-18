@@ -76,13 +76,18 @@
 
 | Project | What it is | Stack |
 | :-- | :-- | :-- |
-| 🩺 **HersiHealth** | Patient health-record web app built on the FHIR healthcare data standard | React, TypeScript, Vite, Medplum |
-| 🛒 **Smart Shop Manager** *(in progress)* | Mobile business app for small retailers: sales, inventory, records and reporting | React Native, Expo |
-| 📚 **[BookStore](https://github.com/mahamed7/BookStore)** | Full CRUD book manager with local storage, profile screens and navigation | React Native, Expo, SQLite |
-| 🔌 **Notes REST API** | RESTful notes service backing my mobile lab apps | Node.js, Express, MongoDB |
-| 🎓 **Student Grading System** | Desktop app for recording marks and calculating grades | C#, .NET 8, WinForms |
-| ⏱️ **Flowtime** | Cross-platform mobile app | Flutter, Dart |
-| ✉️ **[Contact Form](https://github.com/mahamed7/Contact-us-form)** | Functional, interactive web contact form | HTML, CSS, JavaScript |
+| 🩺 **[HersiHealth](https://github.com/mahamed7/hersihealth)** | FHIR-native health record: AI document extraction, emergency QR profile, expiring shares, audit log *(co-built)* | React, TypeScript, Medplum |
+| 🏫 **[School Management System](https://github.com/mahamed7/school-management-system)** · [demo](https://mahamed7.github.io/school-management-system/) | Role-based admin, teacher and student portal with an attendance register | JavaScript, HTML, CSS |
+| ⏱️ **[FlowTime](https://github.com/mahamed7/flowtime)** | Deep-work focus timer with tested state logic | Flutter, Riverpod, Hive |
+| 🔌 **[Notes API](https://github.com/mahamed7/notes-api)** | Layered REST service: CRUD, logging, central error handling | Node.js, Express 5, MongoDB |
+| 🔥 **[Firebase Realtime Tasks](https://github.com/mahamed7/firebase-realtime-tasks)** | Task list that syncs live across devices | React Native, Firebase |
+| 📱 **[React Native Labs](https://github.com/mahamed7/react-native-labs)** | Fintech dashboard UI and stack-navigation labs | React Native, NativeWind |
+| 🎓 **[Student Grading System](https://github.com/mahamed7/student-grading-system)** | Score-to-grade desktop app with a code walkthrough | C#, .NET 8, WinForms |
+| 📚 **[Xog-Macallin-Arday](https://github.com/mahamed7/xog-macallin-arday)** · [demo](https://mahamed7.github.io/xog-macallin-arday/) | Teacher-student grade manager with stats and dark mode | JavaScript, localStorage |
+| 📖 **[BookStore](https://github.com/mahamed7/BookStore)** | Full CRUD book manager with local storage and navigation | React Native, Expo, SQLite |
+| 🛒 **Smart Shop Manager** *(in progress)* | Mobile business app for small retailers: sales, inventory and reporting | React Native, Expo |
+
+Every repo has a README, a CI workflow (build, lint, tests or secret scanning) and an MIT license (except co-owned HersiHealth).
 
 **🗺️ Data engineering projects coming next:** retail data warehouse (PostgreSQL · dbt · Power BI), financial reconciliation pipeline (Python · dbt · Airflow), real-time transaction streaming (Kafka · PySpark), cloud lakehouse (AWS S3 · Glue · Athena) and data quality monitoring (Great Expectations).
 
