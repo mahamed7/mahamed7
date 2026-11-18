@@ -17,8 +17,8 @@
 </p>
 
 <p align="center">
-  <a href="https://mahamed7.github.io"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-mahamed7.github.io-0b1020?style=for-the-badge" /></a>
-  <a href="https://mahamed7.github.io/resume.html"><img src="https://img.shields.io/badge/%F0%9F%93%84%20CV-View%20%26%20download-818CF8?style=for-the-badge" /></a>
+  <a href="https://mahamed7.github.io/Portfolio/"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-mahamed7.github.io%2FPortfolio-0b1020?style=for-the-badge" /></a>
+  <a href="https://mahamed7.github.io/Portfolio/resume.html"><img src="https://img.shields.io/badge/%F0%9F%93%84%20CV-View%20%26%20download-818CF8?style=for-the-badge" /></a>
 </p>
 
 ---
@@ -115,7 +115,7 @@ I care about how data is protected as much as how fast it flows, including acces
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://mahamed7.github.io"><img src="https://img.shields.io/badge/Portfolio-0b1020?style=for-the-badge&logo=githubpages&logoColor=2DD4BF" /></a>
+  <a href="https://mahamed7.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-0b1020?style=for-the-badge&logo=githubpages&logoColor=2DD4BF" /></a>
   <a href="mailto:mahamedmahamud019@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
