@@ -44,6 +44,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=py,postgres,mongodb,sqlite,firebase&perline=9" alt="Data and databases" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
 </p>
 
 **Languages and frameworks**
@@ -65,7 +66,6 @@
   <img src="https://img.shields.io/badge/ETL%20%2F%20ELT-Pipelines-2DD4BF?style=flat-square" />
   <img src="https://img.shields.io/badge/Dimensional-Modelling-6C47FF?style=flat-square" />
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
 </p>
@@ -76,6 +76,7 @@
 
 | Project | What it is | Stack |
 | :-- | :-- | :-- |
+| 🏬 **[Retail Data Warehouse](https://github.com/mahamed7/retail-data-warehouse)** | End-to-end ELT pipeline into a star schema, with ~150 data tests and revenue reconciliation in CI | Python, PostgreSQL, dbt |
 | 🩺 **[HersiHealth](https://github.com/mahamed7/hersihealth)** | FHIR-native health record: AI document extraction, emergency QR profile, expiring shares, audit log *(co-built)* | React, TypeScript, Medplum |
 | 🏫 **[School Management System](https://github.com/mahamed7/school-management-system)** · [demo](https://mahamed7.github.io/school-management-system/) | Role-based admin, teacher and student portal with an attendance register | JavaScript, HTML, CSS |
 | ⏱️ **[FlowTime](https://github.com/mahamed7/flowtime)** | Deep-work focus timer with tested state logic | Flutter, Riverpod, Hive |
@@ -89,7 +90,7 @@
 
 Every repo has a README, a CI workflow (build, lint, tests or secret scanning) and an MIT license (except co-owned HersiHealth).
 
-**🗺️ Data engineering projects coming next:** retail data warehouse (PostgreSQL · dbt · Power BI), financial reconciliation pipeline (Python · dbt · Airflow), real-time transaction streaming (Kafka · PySpark), cloud lakehouse (AWS S3 · Glue · Athena) and data quality monitoring (Great Expectations).
+**🗺️ Data engineering projects coming next:** Airflow orchestration and a Power BI dashboard for the retail warehouse, financial reconciliation pipeline (Python · dbt · Airflow), real-time transaction streaming (Kafka · PySpark), cloud lakehouse (AWS S3 · Glue · Athena) and data quality monitoring (Great Expectations).
 
 ---
 
