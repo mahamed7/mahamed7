@@ -76,7 +76,7 @@
 
 | Project | What it is | Stack |
 | :-- | :-- | :-- |
-| 🏬 **[Retail Data Warehouse](https://github.com/mahamed7/retail-data-warehouse)** | End-to-end ELT pipeline into a star schema, with ~150 data tests and revenue reconciliation in CI | Python, PostgreSQL, dbt |
+| 🏬 **[Retail Data Warehouse](https://github.com/mahamed7/retail-data-warehouse)** · [dashboard](https://mahamed7.github.io/retail-data-warehouse/) | ELT pipeline into a star schema with type 2 history, idempotent daily loads, incremental models, an Airflow DAG and 177 data tests in CI | Python, PostgreSQL, dbt, Airflow |
 | 🩺 **[HersiHealth](https://github.com/mahamed7/hersihealth)** | FHIR-native health record: AI document extraction, emergency QR profile, expiring shares, audit log *(co-built)* | React, TypeScript, Medplum |
 | 🏫 **[School Management System](https://github.com/mahamed7/school-management-system)** · [demo](https://mahamed7.github.io/school-management-system/) | Role-based admin, teacher and student portal with an attendance register | JavaScript, HTML, CSS |
 | ⏱️ **[FlowTime](https://github.com/mahamed7/flowtime)** | Deep-work focus timer with tested state logic | Flutter, Riverpod, Hive |
